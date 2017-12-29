@@ -1,9 +1,12 @@
 # Scientific-calculator-and-graph-plotter-with-reverse-polish-notation-RPN-shunting-yard-algorithm-
 
 The calculator compute complex expressions, and plot graphs from a
-given expression with one unknown variable.
+given expression with one unknown variable:
+
 
 ![Calculator interface](/images/img1.png)
+![Calculator interface](/images/img2.png)
+
 
 
 ### The algorithm in detail (from wikipedia):
