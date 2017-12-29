@@ -10,7 +10,7 @@ given expression with one unknown variable:
 ### The algorithm in detail (from wikipedia):
 
                  
-  ![Calculator plot](/images/img2.png) 
+  ![Calculator plot](/images/img3.png) 
 
 
 
