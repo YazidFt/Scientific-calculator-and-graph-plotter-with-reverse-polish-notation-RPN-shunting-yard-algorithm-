@@ -1,4 +1,7 @@
 # Scientific-calculator-and-graph-plotter-with-reverse-polish-notation-RPN-shunting-yard-algorithm-
+/*
+  Edited in 2015
+*/
 
 The calculator compute complex expressions, and plot graphs from a
 given expression with one unknown variable:
