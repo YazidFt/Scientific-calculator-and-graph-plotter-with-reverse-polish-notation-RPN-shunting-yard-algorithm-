@@ -5,7 +5,7 @@ given expression with one unknown variable:
 
 
 ![Calculator interface](/images/img1.png)
-![Calculator interface](/images/img2.png)
+![Calculator plot](/images/img2.png)
 
 
 
