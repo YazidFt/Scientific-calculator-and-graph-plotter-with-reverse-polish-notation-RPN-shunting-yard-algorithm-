@@ -11,6 +11,12 @@ given expression with one unknown variable:
 
                  
   ![Calculator plot](/images/img3.png) 
+  
+
+
+#### Perspective:
+Migrate calculations to "bigInteger" library to support large values
+
 
 
 
